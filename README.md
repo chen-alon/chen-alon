@@ -4,7 +4,7 @@
 
 - 🎓 I’m a Software engineer graduate.
 - 💻 I’m looking for a position of Software Engineer.
-- 📚 I’m currently improving my JavaScript skills.
+- 📚 I’m currently improving my React skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chen-alon/), [My Portfolio Site](https://chen-alon-portfolio.herokuapp.com/)
 
 <!-- - 🔭 I’m currently working on ...
